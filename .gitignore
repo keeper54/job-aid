@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+express-server/keyfile.json
+express-server/.env
 *node_modules
 express-server/node_modules
 react-app/node_modules

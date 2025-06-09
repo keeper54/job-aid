@@ -20,7 +20,7 @@ const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || '');
 
 const openai = new OpenAI({
   baseURL: 'https://openrouter.ai/api/v1',
-  apiKey: `${process.env.OPENROUTER_API_KEY}`,
+  apiKey: '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',
   defaultHeaders: {
     'HTTP-Referer': 'aOliver-test', // Optional. Site URL for rankings on openrouter.ai.
     'X-Title': 'aOliver-test', // Optional. Site title for rankings on openrouter.ai.

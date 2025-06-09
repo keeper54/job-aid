@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "job-aid-461820",
+    "private_key_id": "0e64972924e23b42d119adef5df026b80341838a",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCScIFY/SWujYmw\n4Yr9Zey1J/DsTh1JGYdu3/AxtmXctWTqZGNHn5Xbao+X4PHrDBL35eQmRxClkNyP\n5hNC2m+RmZevFNu6GxvJz28vzklt6AWxWyf6MGkZ9woobjbgAJvdgmSMdrry842Z\n5HoQgFHHd3AIIeZ68g0Lhg23u631Qj75OyAWYUJzxTr25fcmWlRzbzBK8mDApoON\nXeqbiGxdeIKFxKZ0HJN6c/rGI4N+Q5DLNgS4GfYecDR8jgLkdwEAu6FhgcmQ8kWM\niehaYoqWWo2FT9HRLQ/qmUNG+SvTTFN1qVzm/h5FnlwOwNoyj5PIUH05CshaSSJP\nxaNXUV9bAgMBAAECggEAA5BG/Yjk3AYSuzdfNVe/y7rF7feKq+bko6nsbkaaMlBH\nEpMl0q42Ad8VJnoxY5RpeRc4QZw0x1VVS2UrGSiNUtWSL48KN9GwD+2t2X54zVAP\npLzApiHRH5zM5lCkTOLcPXw5AS1kfZlisUOHmujcf0ZPTMtdEKcyR70Cjsg7l/50\nHRltZBMsgGu6U/kSwUrP7SBUNJgcg5oenBHQz2mSj/4vlkAK8Elis1xtKXQagB84\ndyvqxosr+4TqtpT7Izkf41I3zMnjDyAriFMokmUgzkUTykHEf2e8I4nfMthQXk07\nH9TXBfBALwAgp2bPK3ZNSIVkiuiaVZfAMVTGzZHkdQKBgQDGORNl/xgEIU3BnBGX\nJqyH/PNzXsIexaovPJ6KfjS1H64E3MyZzRxiLxhDfmMiCX7SfyIlyWtde++QpAXr\n6gvZpLSkBkVy7g2krGSVNp33N/fgyUc7Ru9dbH2vtNJxBF3PwO14TKoXZRfXdPN0\n2i2viOhr1GmpLNNykWILgUEEJQKBgQC9H3hBU8qHV8DzlYPPy2tczjFB+lfxIAtA\nFiTDF0y15KnW3XAIiHNCbiTC7+fEwQhjRhqRTSD2GyXvxWztSnmi1WOQA/2gf90B\nUjeIjpZk9/Ckww9zEIEHEZGgWc6tjAh6EJwUhsEo5LPW8SgvLiTUFysdP/RPwahx\n2coCT629fwKBgQC72HbTn6yIrW7cXSQmU1YJAONMn63iL3uZjB7KK9OTGVR18zBJ\nSCDvwqWBwJH9PXZb0HLx0DDYxIxAS8/4wzE7rWQqVG8X/RQcy+n9pWaJUxaqhNPm\nDtDjfd6V1gvfYj3slW31JOHDjd/MJF5ajC/jOyDWntMKqRowZim9sV2FqQKBgQCm\nrjWuXcsBvbWw+PVTDlVxVcjT/W/EdBl2Qg3kY4SYSw/k7wTugFQVGD4OEKKUJgze\nccq4hOGoBgVJbRazjA/oE2nMY7gE3KxLncqT8BdcpajRjZjwMHuHX1SZno0pJ2HR\nMxJchOd4wxg9OA3ShziuND0ralJIeMWckfYYU2EswQKBgD4O8v9+1HdL9dAk3ywD\nN7JBCWIvzGtI1tz6XtDjOckE4L2gkInc7QHxLCTcATqfFuQBC+7WKGU/1ddj+/Pu\nNqw2nW05bpSj8GtrO/RVvyFUk0xINoXacVlK2ipzxmI5OqKTUIKiHjUtoA/rVoO1\ndtI5GH9IPTHPJnBGuQbFlZjO\n-----END PRIVATE KEY-----\n",
+    "client_email": "generative-ai-job-aid@job-aid-461820.iam.gserviceaccount.com",
+    "client_id": "117361611389424821419",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/generative-ai-job-aid%40job-aid-461820.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
